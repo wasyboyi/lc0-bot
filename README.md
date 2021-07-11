@@ -1,4 +1,4 @@
-# MAINTAINER [ayaanshgaur12](https://lichess.org/@/ayaanshgaur12)
+# MAINTAINER ChessGreatPlayer
 
 [![Python](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Python.yml/badge.svg)](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Python.yml)
 [![Docker](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Docker.yml/badge.svg)](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Docker.yml)
