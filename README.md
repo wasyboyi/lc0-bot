@@ -20,7 +20,7 @@
 ## INFO 
 
 ENGINE:
-- STOCKFISH 13 SSE4.1 + POPCNT
+- lc0
 
 OPENING BOOKS: 
 - Goi5.1.bin
